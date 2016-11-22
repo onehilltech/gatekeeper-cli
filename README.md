@@ -42,7 +42,7 @@ It is allow possible to add a user account to the service. The user account repr
 an individual who has access to the service. Similar to adding a client, you can add
 a user account:
 
-    gatekeeper account add --base 
+    gatekeeper account add --base <base-uri>
     
 Follow the on-screen prompts to complete the addition process. The `username` 
 and `password` are used to create an access token for the user.
