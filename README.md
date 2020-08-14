@@ -1,6 +1,8 @@
 gatekeeper-cli
 ==============
 
+> This repo has been imported into the [@onehilltech/blueprint](https://github.com/onehilltech/blueprint) monorepo.
+
 command-line interface for Gatekeeper
 
 [![npm version](https://img.shields.io/npm/v/@onehilltech/blueprint-gatekeeper-cli.svg?maxAge=2592000)](https://www.npmjs.com/package/@onehilltech/blueprint-gatekeeper-cli)
